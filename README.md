@@ -1,5 +1,5 @@
 # Stock-Prediction-Web-App
-A Stock Prediction Web App built using yahofinance, fbprophet and streamlit.
+A Stock Prediction Web App built using yfinance, fbprophet and streamlit.
 Run the app using the command: streamlit run main.py
 
 The application provides a dropdown to select from a list of stocks and a slider to view prediction upto a period a four years. Recent data is first displayed and visualised.
